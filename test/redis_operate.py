@@ -39,5 +39,3 @@ print("命中次数:",hits)
 print("丢失次数:",miss)
 print("角色:",role)
 print("db0数据库key数:",key_nums)
-
-print('测试提交')
